@@ -4,15 +4,15 @@ Welcome to the integration of Klarna's services within [ Klarna Checkout ]. This
 
 # Features
 
-. Streamlined Order Management: Create, track, and manage orders seamlessly using Klarna's robust checkout API.
-. Flexible Payment Processing: Enable diverse payment methods like card transactions or invoicing to enhance user convenience.
-. Detailed Order Retrieval: Access comprehensive details of placed orders via Klarna for comprehensive record-keeping and analysis.
+1. Streamlined Order Management: Create, track, and manage orders seamlessly using Klarna's robust checkout API.
+2. Flexible Payment Processing: Enable diverse payment methods like card transactions or invoicing to enhance user convenience.
+3. Detailed Order Retrieval: Access comprehensive details of placed orders via Klarna for comprehensive record-keeping and analysis.
 
 # Prerequisites
 
-. Node.js and npm: Ensure Node.js and npm are installed on your local machine to run the application.
-. Klarna API Credentials: Obtain API credentials (username and password) from Klarna for authenticating requests to their APIs.
-. Access to Klarna's APIs: Ensure access to Klarna's API endpoints for successful integration and usage.
+1. Node.js and npm: Ensure Node.js and npm are installed on your local machine to run the application.
+2. Klarna API Credentials: Obtain API credentials (username and password) from Klarna for authenticating requests to their APIs.
+3. Access to Klarna's APIs: Ensure access to Klarna's API endpoints for successful integration and usage.
 
 # Installation
 
